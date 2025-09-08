@@ -1,4 +1,4 @@
-# Hi everyone! I'm Olya, nice to meet you! <img src="https://i.pinimg.com/originals/4c/23/63/4c236364db3543337354bc3acc1fe792.gif" width="30px">
+# Hi everyone! I'm Olya, nice to meet you! <img src="https://i.pinimg.com/originals/4c/23/63/4c236364db3543337354bc3acc1fe792.gif" width="50px">
 
 <!--
 **olhahoshko/olhahoshko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
